@@ -1,20 +1,27 @@
-import './App.css'
-import Navbar from './components/Naxbar/Navbar'
-import ItemsListContainer from './components/ItemsListContainer/ItemsListContainer'
+import "./App.css";
+import ItemDetailContainer from "./components/ItemDetailContainer/ItemDetailContainer";
+import ItemListContainer from "./components/ItemsListContainer/ItemsListContainer";
+import Navbar from "./components/Navbar/Navbar";
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
+
+
 function App() {
-
-
   return (
-    <>
-     <Navbar/>
-     <ItemsListContainer greeting=" ¡Bienvenidos a Kyros Lencería, el rincón íntimo que refleja el amor de
-          dos hermanas por la elegancia y la autoexpresión! Hace un año, Camila
-          y Sofía Zeballos decidieron dar vida a su sueño compartido, y así
-          nació Kyros Lencería. En nuestro acogedor espacio, descubrirás mucho
-          más que conjuntos exquisitos; encontrarás una experiencia de compra
-          personalizada y llena de pasión."/>
-    </>
-  )
+    <BrowserRouter>
+
+      <Navbar />
+
+      <Routes>
+        <Route path="/" element={ <ItemListContainer /> } />
+        <Route path="/productos/:categoryId" element={ <ItemListContainer /> } />
+        <Route path="/item/:itemId" element={ <ItemDetailContainer /> } />
+
+        <Route path="/not-found" element={ <h2>Not found</h2> }/>
+        <Route path="*" element={ <Navigate to={"/not-found"}/> }/>
+      </Routes>
+
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
