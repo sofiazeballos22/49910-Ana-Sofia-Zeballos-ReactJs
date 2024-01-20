@@ -17,7 +17,7 @@ const CartView = () => {
     // ! return cart.length === 0 && <EmtpyCart /> esto no funciona
 
   return (
-    <section className="container m-auto mt-8">
+    <section className="container m-auto mt-8 ">
       <p>Bienvenido: {user.email}</p>
       <h2 className="text-4xl font-semibold">Tu Compra</h2>
       <hr />
