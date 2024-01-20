@@ -1,23 +1,21 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import Boton from "../../extra/Boton";
 import QuantitySelector from "./QuantlySelector";
-import ColorSelector from "./ColorSelector";
-import { useNavigate } from "react-router-dom";
-
+import { Link, useNavigate } from "react-router-dom";
+import { CartContext } from "../../context/CartContext";
 
 const ItemDetail = ({ item }) => {
-  const [cantidad, setCantidad] = useState(1)
-  // const [color, setColor] = useState("")
   const navigate = useNavigate()
+  const [cantidad, setCantidad] = useState(1)
+  const { addToCart, isInCart } = useContext(CartContext)
 
   const handleAgregar = () => {
     const itemToCart = {
       ...item,
       cantidad, // => cantidad: cantidad
-      color // => color: color
     }
 
-    console.log(itemToCart)
+    addToCart(itemToCart)
   }
 
   const handleVolver = () => {
@@ -37,14 +35,22 @@ const ItemDetail = ({ item }) => {
         <div>
           <p>{item.description}</p>
           <p className="text-xl font-bold">Precio: ${item.price}</p>
+          {/* <Ejemplo /> */}
 
-          <QuantitySelector 
-            cantidad={cantidad}
-            stock={item.stock}
-            setCantidad={ setCantidad }
-          />
 
-          <Boton className="text-white px-10 text-xl bg-rose-800" onClick={handleAgregar}>Agregar al carrito</Boton>
+          {
+            isInCart( item.id )
+              ? <Boton><Link to="/cart">Terminar mi compra</Link></Boton>
+              : <>
+                  <QuantitySelector 
+                    cantidad={cantidad}
+                    stock={item.stock}
+                    setCantidad={ setCantidad }
+                  />          
+                  <Boton className="text-white px-10 text-xl bg-rose-800"
+                  onClick={handleAgregar} disabled={item.stock === 0}>Agregar al carrito</Boton>
+                </>
+          }
         </div>
       </div>
     </div>

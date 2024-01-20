@@ -2,312 +2,136 @@
   "id": 1,
   "name": "Marcela Kaury - Filling",
   "price": 76454,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/conjuntos%2Fconjunto-blanco-encaje.png?alt=media&token=22dff97a-e86c-4e81-a088-c300ec8ac8b1",
   "category": "conjuntos",
   "stock": 3,
-  "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  "description": "Este conjunto de lencería de encaje blanco es perfecto para ocasiones especiales. El sujetador de encaje con aros y copas preformadas te da un aspecto elegante y sofisticado. La braguita brasileña de encaje te da un toque de sensualidad."
 }, {
   "id": 2,
   "name": "Cocot - Iqf",
   "price": 43699,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/trajes%20de%20ba%C3%B1o%2FenterizaBiColor.png?alt=media&token=d0f906b6-680f-47e6-bfca-744eb38cb9f9",
   "category": "trajes de baño",
   "stock": 81,
-  "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui."
+  "description": "Este traje de baño de una pieza es perfecto para cualquier ocasión. Está hecho de un tejido suave y cómodo que se adapta a la forma de tu cuerpo. Es ideal para usar en la playa, la piscina o en cualquier lugar donde quieras disfrutar del sol."
 }, {
   "id": 3,
   "name": "Isidora - Everything Presliced",
   "price": 25402,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/packs%20de%20bombachas%2Fpacks-bombacha1.png?alt=media&token=4b3fb2db-4141-4bc3-a430-dfb358a5a0b5",
   "category": "packs de bombachas",
   "stock": 19,
-  "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+  "description": "Este pack de 3 bombachas de algodón es perfecto para el día a día. Están hechas de algodón 100%, lo que las hace suaves y cómodas de llevar. Son ideales para usar con cualquier tipo de prenda, desde jeans hasta vestidos."
 }, {
   "id": 4,
   "name": "Juice - Orange, 341 Ml",
   "price": 42123,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/medias%2Fmedias-antideslizantes.png?alt=media&token=b377cf43-c887-4007-a8e9-795572b5919c",
   "category": "medias",
   "stock": 56,
-  "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+  "description": "Estas medias de compresión están diseñadas para proporcionar apoyo y comodidad. Están hechas de un tejido elástico que se adapta a la forma de tu pierna. Son ideales para usar durante el ejercicio o para personas que sufren de mala circulación."
 }, {
   "id": 5,
   "name": "Salmon - Smoked, Sliced",
   "price": 16431,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/packs%20de%20bombachas%2Festilo-Romantico.png?alt=media&token=77c0878c-4c67-4862-9eea-faeb3847885f",
   "category": "packs de bombachas",
   "stock": 29,
-  "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+  "description": "Este pack de 3 bombachas de encaje es perfecto para ocasiones especiales. Están hechas de un tejido fino y delicado que le da un aspecto sexy y elegante. Son ideales para usar con vestidos de noche o faldas."
 }, {
   "id": 6,
   "name": "Appetizer - Spring Roll, Veg",
   "price": 20676,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/trajes%20de%20ba%C3%B1o%2FtrajedeBa%C3%B1oEnterizo.png?alt=media&token=24b88c55-6c0a-402c-8e92-ef1c4c1ef12c",
   "category": "trajes de baño",
   "stock": 33,
-  "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+  "description": "Este traje de baño de dos piezas es perfecto para ocasiones especiales. Está hecho de un tejido fino y delicado que le da un aspecto sexy y elegante. Es ideal para usar en la playa, la piscina o en cualquier lugar donde quieras lucir hermosa."
 }, {
   "id": 7,
   "name": "Dried Cranberries",
   "price": 46897,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/trajes%20de%20ba%C3%B1o%2Ftemporadad2024.png?alt=media&token=1a25313c-0ceb-49e5-ba71-27936996e1fa",
   "category": "trajes de baño",
   "stock": 9,
-  "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+  "description": "Este traje de baño de dos piezas es perfecto para ocasiones especiales. Está hecho de un tejido fino y delicado que le da un aspecto sexy y elegante. Es ideal para usar en la playa, la piscina o en cualquier lugar donde quieras lucir hermosa."
 }, {
   "id": 8,
   "name": "Wine - Niagara Peninsula Vqa",
   "price": 56799,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/packs%20de%20bombachas%2Fbombacha-estiloRomantico.png?alt=media&token=5b074660-1d49-4dc2-b654-fb85853a73ca",
   "category": "packs de bombachas",
   "stock": 26,
-  "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+  "description": "Este pack de 3 bombachas de encaje es perfecto para ocasiones especiales. Están hechas de un tejido fino y delicado que le da un aspecto sexy y elegante. Son ideales para usar con vestidos de noche o faldas."
 }, {
   "id": 9,
   "name": "Ham Black Forest",
   "price": 4701,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/medias%2Fmedias2.png?alt=media&token=2f3696cf-cba3-424e-aaa2-c3ff52265a0a",
   "category": "medias",
   "stock": 29,
-  "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+  "description": "Estas medias de algodón son perfectas para el día a día. Están hechas de algodón 100%, lo que las hace suaves y cómodas de llevar. Son ideales para usar con cualquier tipo de calzado, desde zapatos deportivos hasta tacones altos."
 }, {
   "id": 10,
   "name": "Wine - Sicilia Igt Nero Avola",
   "price": 71344,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "packs de bombachas",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/medias%2Fmedias1.png?alt=media&token=8c7e022a-66de-4c8f-8c24-cda97c966d81",
+  "category": "medias",
   "stock": 68,
-  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+  "description": "Las medias de seda son la opción perfecta para ocasiones especiales. Están hechas de un tejido fino y delicado que le da un aspecto elegante y sofisticado. Son ideales para usar con vestidos de noche o faldas."
 }, {
   "id": 11,
   "name": "Pomello",
   "price": 97489,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "packs de bombachas",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/conjuntos%2Fconjunto-rojo-satinado.png?alt=media&token=79290ff8-3196-43e4-8689-7d38ad6a4138",
+  "category": "conjuntos",
   "stock": 54,
-  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+  "description": "Este conjunto de lencería de algodón blanco es perfecto para el día a día. El sujetador de algodón con copas preformadas te da un aspecto natural y cómodo. La braguita de algodón de corte clásico te da un toque de sencillez."
 }, {
   "id": 12,
   "name": "Compound - Rum",
   "price": 33931,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/packs%20de%20bombachas%2Festilo-Romantico.png?alt=media&token=77c0878c-4c67-4862-9eea-faeb3847885f",
   "category": "packs de bombachas",
   "stock": 92,
-  "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+  "description": "Este pack de 3 bombachas de encaje es perfecto para ocasiones especiales. Están hechas de un tejido fino y delicado que le da un aspecto sexy y elegante. Son ideales para usar con vestidos de noche o faldas."
 }, {
   "id": 13,
   "name": "Calypso - Strawberry Lemonade",
   "price": 109088,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/conjuntos%2Fconjunto-rosa.png?alt=media&token=66a4f2a6-5b30-4c54-b6e5-743aa0f1d90b",
   "category": "conjuntos",
   "stock": 3,
-  "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+  "description": "Este conjunto de lencería de satén rojo es perfecto para una noche romántica. El sujetador de satén con copas push-up te da un aspecto sexy y voluptuoso. La braguita de satén de corte alto te da un toque de sofisticación."
 }, {
   "id": 14,
   "name": "Wine - Peller Estates Late",
   "price": 114676,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/medias%2Fmedias-seda.png?alt=media&token=926ed8d8-0796-4298-8408-3cd6006d9a3b",
   "category": "medias",
   "stock": 43,
-  "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+  "description": "Estas medias de algodón son perfectas para el día a día. Están hechas de algodón 100%, lo que las hace suaves y cómodas de llevar. Son ideales para usar con cualquier tipo de calzado, desde zapatos deportivos hasta tacones altos."
 }, {
   "id": 15,
   "name": "Chips Potato Reg 43g",
   "price": 106447,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "medias",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/conjuntos%2Fconjunto-negro-transparente.png?alt=media&token=27ff16d9-3c3c-48bd-a40a-8ffc0b2eef29",
+  "category": "conjuntos",
   "stock": 3,
-  "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+  "description": "Este conjunto de lencería de encaje rosa pastel es perfecto para una mujer romántica y femenina. El sujetador de encaje con aros y copas preformadas te da un aspecto delicado y elegante. La braguita de encaje de corte alto te da un toque de sensualidad."
 }, {
   "id": 16,
   "name": "Seedlings - Buckwheat, Organic",
   "price": 93547,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/trajes%20de%20ba%C3%B1o%2Ftraje-Deporte.png?alt=media&token=77f7291b-70de-4626-b245-6556a01fd7a8",
   "category": "trajes de baño",
   "stock": 98,
-  "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+  "description": "Este traje de baño de neopreno es perfecto para deportes acuáticos como el surf, el buceo o el esnórquel. Está hecho de un tejido resistente que te protege del frío y las corrientes. Es ideal para usar en la playa o en la piscina."
 }, {
   "id": 17,
   "name": "Chambord Royal",
   "price": 59030,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
+  "img": "https://firebasestorage.googleapis.com/v0/b/proyecto-lenceria-react-4991.appspot.com/o/packs%20de%20bombachas%2Fbombachas-gym.png?alt=media&token=2fcc6e55-cd5e-462a-958f-39ced326d4b9",
   "category": "packs de bombachas",
   "stock": 76,
-  "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
-}, {
-  "id": 18,
-  "name": "Ecolab - Power Fusion",
-  "price": 51911,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "trajes de baño",
-  "stock": 22,
-  "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
-}, {
-  "id": 19,
-  "name": "Eggwhite Frozen",
-  "price": 77233,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "conjuntos",
-  "stock": 52,
-  "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
-}, {
-  "id": 20,
-  "name": "Sauce Bbq Smokey",
-  "price": 16930,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "conjuntos",
-  "stock": 21,
-  "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
-}, {
-  "id": 21,
-  "name": "Coconut - Shredded, Sweet",
-  "price": 24805,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "category": "conjuntos",
-  "stock": 80,
-  "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
-}, {
-  "id": 22,
-  "name": "Wine - Vovray Sec Domaine Huet",
-  "price": 64409,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "packs de bombachas",
-  "stock": 19,
-  "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
-}, {
-  "id": 23,
-  "name": "Beef - Short Loin",
-  "price": 94649,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "category": "conjuntos",
-  "stock": 57,
-  "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti."
-}, {
-  "id": 24,
-  "name": "Ice - Clear, 300 Lb For Carving",
-  "price": 53514,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "trajes de baño",
-  "stock": 82,
-  "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
-}, {
-  "id": 25,
-  "name": "Wheat - Soft Kernal Of Wheat",
-  "price": 21237,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "packs de bombachas",
-  "stock": 52,
-  "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
-}, {
-  "id": 26,
-  "name": "Sherry - Dry",
-  "price": 57411,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "conjuntos",
-  "stock": 60,
-  "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
-}, {
-  "id": 27,
-  "name": "Chickensplit Half",
-  "price": 41870,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "category": "medias",
-  "stock": 53,
-  "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
-}, {
-  "id": 28,
-  "name": "Wine - Chianti Classica Docg",
-  "price": 64377,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "packs de bombachas",
-  "stock": 37,
-  "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
-}, {
-  "id": 29,
-  "name": "Marsala - Sperone, Fine, D.o.c.",
-  "price": 98034,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "conjuntos",
-  "stock": 75,
-  "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
-}, {
-  "id": 30,
-  "name": "Guinea Fowl",
-  "price": 12459,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "medias",
-  "stock": 89,
-  "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
-}, {
-  "id": 31,
-  "name": "Uniform Linen Charge",
-  "price": 55523,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "trajes de baño",
-  "stock": 8,
-  "description": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
-}, {
-  "id": 32,
-  "name": "Corn Kernels - Frozen",
-  "price": 58805,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "conjuntos",
-  "stock": 75,
-  "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
-}, {
-  "id": 33,
-  "name": "Bok Choy - Baby",
-  "price": 112779,
-  "img": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "category": "trajes de baño",
-  "stock": 89,
-  "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
-}, {
-  "id": 34,
-  "name": "Cake Sheet Combo Party Pack",
-  "price": 12913,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "conjuntos",
-  "stock": 24,
-  "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
-}, {
-  "id": 35,
-  "name": "Beef - Outside, Round",
-  "price": 9600,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "category": "conjuntos",
-  "stock": 28,
-  "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
-}, {
-  "id": 36,
-  "name": "Juice - Tomato, 10 Oz",
-  "price": 91990,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "trajes de baño",
-  "stock": 36,
-  "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
-}, {
-  "id": 37,
-  "name": "Pasta - Penne, Lisce, Dry",
-  "price": 65587,
-  "img": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "category": "trajes de baño",
-  "stock": 39,
-  "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-}, {
-  "id": 38,
-  "name": "Versatainer Nc - 888",
-  "price": 84922,
-  "img": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "category": "packs de bombachas",
-  "stock": 32,
-  "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
-}, {
-  "id": 39,
-  "name": "Apple - Royal Gala",
-  "price": 40153,
-  "img": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "category": "trajes de baño",
-  "stock": 31,
-  "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+  "description": "Este pack de 3 bombachas de deporte es perfecto para el gimnasio o para cualquier actividad física. Están hechas de un tejido elástico que se adapta a la forma de tu cuerpo. Son ideales para usar con leggings o shorts de deporte."
 }]
